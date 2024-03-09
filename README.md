@@ -3,4 +3,4 @@
 
 - [x] **SQL & Tableau** - 
 - IMBd-Movies-Dashboard<br />
-*See on Tableau Public:***[Dashboard](https://public.tableau.com/views/IMBDmoviesdashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)**<br />
+*See on Tableau Public:* **[Dashboard](https://public.tableau.com/views/IMBDmoviesdashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)**<br />
