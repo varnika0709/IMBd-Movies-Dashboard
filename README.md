@@ -17,5 +17,7 @@
 - Customer Segmentation Dashboard<br />
  *See on Tableau Public:* **[Dashboard](https://public.tableau.com/app/profile/varnika.bhardwaj6057/viz/CustomersegmentationDashboard_17088477484680/customersegmentationdashboard?publish=yes)**<br />
 *Review the Data Exploration SQL Script:* **[HERE](https://github.com/varnika0709/Portfolio-Projects/blob/main/customer_segmentation.sql)**<br />
-[Instagram Clone Dashboard]![customer segmentation photo](https://github.com/varnika0709/Portfolio-Projects/assets/130127712/21c2fdba-31d5-46a4-a806-c799aac71cf5)
+[Instagram Clone Dashboard]![customer segmentation photo](https://github.com/varnika0709/Portfolio-Projects/assets/130127712/21c2fdba-31d5-46a4-a806-c799aac71cf5)<br />
+()![image](https://github.com/varnika0709/Portfolio-Projects/assets/130127712/6dfac508-4c9c-4b20-8f7b-32e240e8ae7e)
+
 
