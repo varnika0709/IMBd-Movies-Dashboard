@@ -25,4 +25,4 @@
 
 - [x] **Python** -
  - Global Youtubers Statistics
- - *See The EDA of Global Youtubers Statistics:* **[EDA]
+ - *See The EDA of Global Youtubers Statistics:* **[EDA](https://github.com/varnika0709/Portfolio-Projects/blob/main/global%20youtube%20statistics%20using%20python.ipynb)
