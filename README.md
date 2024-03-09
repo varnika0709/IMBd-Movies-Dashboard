@@ -6,8 +6,8 @@
 - IMBd-Movies-Dashboard<br />
 *See on Tableau Public:* **[Dashboard](https://public.tableau.com/views/IMBDmoviesdashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)**<br />
 
-- E-Commerce Retail Dashboard<br /)
--  *See on Tableau Public:* **[Dashboard](https://public.tableau.com/views/E-CommerceRetail/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)**<br />
+- E-Commerce Retail Dashboard
+*See on Tableau Public:* **[Dashboard](https://public.tableau.com/views/E-CommerceRetail/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)**<br />
 
 
 
