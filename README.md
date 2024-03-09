@@ -29,3 +29,7 @@
 
  - Wallmart Analysis<br />
   *See The EDA of Walmart Analysis:* **[HERE](https://github.com/varnika0709/Portfolio-Projects/blob/main/walmart%20analysis%20using%20python.ipynb)**<br />
+
+  - [x] **Excel** -
+  - Anuual Sales Report
+  - *See The EDA Report:* **[HERE]
