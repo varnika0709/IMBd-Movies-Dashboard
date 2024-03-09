@@ -20,4 +20,7 @@
 *Review the Data Exploration SQL Script:* **[HERE](https://github.com/varnika0709/Portfolio-Projects/blob/main/customer_segmentation.sql)**<br />
 [Instagram Clone Dashboard]![customer segmentation photo](https://github.com/varnika0709/Portfolio-Projects/assets/130127712/21c2fdba-31d5-46a4-a806-c799aac71cf5)<br />
 
+- Sales and Product Analysis<br />
+*Review the Sales and Product Analysis :* **[HERE]
+
 
