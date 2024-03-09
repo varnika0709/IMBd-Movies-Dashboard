@@ -23,4 +23,6 @@
 - Sales and Product Analysis<br />
 *Review the Sales and Product Analysis :* **[HERE](https://github.com/varnika0709/Portfolio-Projects/blob/main/SQL%20case%20study%20ppt.pdf)**<br />
 
-
+- [x] **Python** -
+ - Global Youtubers Statistics
+ - *See The EDA of Global Youtubers Statistics:* **[EDA]
