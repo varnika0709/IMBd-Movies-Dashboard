@@ -24,8 +24,8 @@
 *Review the Sales and Product Analysis :* **[HERE](https://github.com/varnika0709/Portfolio-Projects/blob/main/SQL%20case%20study%20ppt.pdf)**<br />
 
 - [x] **Python** -
- - Global Youtubers Statistics
+ - Global Youtubers Statistics<br />
  - *See The EDA of Global Youtubers Statistics:* **[HERE](https://github.com/varnika0709/Portfolio-Projects/blob/main/global%20youtube%20statistics%20using%20python.ipynb)**<br />
 
- - Wallmart Analysis
+ - Wallmart Analysis<br />
  - *See The EDA of Walmart Analysis:* **[HERE](https://github.com/varnika0709/Portfolio-Projects/blob/main/walmart%20analysis%20using%20python.ipynb)**<br />
