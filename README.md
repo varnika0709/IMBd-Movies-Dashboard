@@ -32,4 +32,4 @@
 
   - [x] **Excel** -
   - Anuual Sales Report<br />
-   *See The EDA Report:* **[HERE](https://github.com/varnika0709/Portfolio-Projects/blob/main/Sales%20store%20annual%20report.png)
+   *See The EDA Report:* **[HERE](https://github.com/varnika0709/Portfolio-Projects/blob/main/Sales%20store%20annual%20report.png)**<br />
