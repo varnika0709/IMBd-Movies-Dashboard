@@ -21,6 +21,6 @@
 [Instagram Clone Dashboard]![customer segmentation photo](https://github.com/varnika0709/Portfolio-Projects/assets/130127712/21c2fdba-31d5-46a4-a806-c799aac71cf5)<br />
 
 - Sales and Product Analysis<br />
-*Review the Sales and Product Analysis :* **[HERE]
+*Review the Sales and Product Analysis :* **[HERE](https://github.com/varnika0709/Portfolio-Projects/blob/main/SQL%20case%20study%20ppt.pdf)**<br />
 
 
