@@ -1,12 +1,12 @@
 ## Following are my projects in SQL, Python, Tableau & Excel: <br />
 #### *You can also take a look at my Linkedin :[Varnika Bhardwaj](www.linkedin.com/in/varnika-bhardwaj07/)* <br />
 
-- [x] **Tableau** -
+- [x] **Tableau** -<br />
   *To view these Tableau Dashboards in Tableau Public, click on the hypertext link.*
 - IMBd-Movies-Dashboard<br />
 *See on Tableau Public:* **[Dashboard](https://public.tableau.com/views/IMBDmoviesdashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)**<br />
 
-- E-Commerce Retail Dashboard
+- E-Commerce Retail Dashboard<br />
 *See on Tableau Public:* **[Dashboard](https://public.tableau.com/views/E-CommerceRetail/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)**<br />
 
 
