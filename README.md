@@ -12,3 +12,4 @@ Welcome to the IMDb Movies Dashboard – your gateway to insightful visualizatio
 2. **Filter and Customize:** Use filters to tailor the view based on specific genres, time periods, or other criteria.
 3. **Interact with Data:** Hover over data points to see details and explore correlations.
 
+https://public.tableau.com/views/IMBDmoviesdashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
